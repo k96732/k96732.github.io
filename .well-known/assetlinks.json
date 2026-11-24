@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ccvault.passkeyprobe",
+      "sha256_cert_fingerprints": [
+        "A6:87:9B:90:3F:BA:00:AF:32:03:48:2A:A1:73:27:9F:7C:54:BD:B0:E0:94:47:28:79:38:0C:5E:CC:94:C2:11"
+      ]
+    }
+  }
+]
